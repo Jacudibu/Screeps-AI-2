@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "^1.0.3",
-    "npm": "^6.2.0"
+    "npm": "^6.13.4"
   },
   "devDependencies": {
     "grunt-contrib-clean": "^1.1.0",
