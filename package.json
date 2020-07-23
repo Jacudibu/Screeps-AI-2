@@ -12,7 +12,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-rsync": "^2.0.1",
     "grunt-screeps": "github:cavejay/grunt-screeps",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.19"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
