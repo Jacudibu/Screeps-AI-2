@@ -4,7 +4,7 @@
   "description": "A bad AI for screeps",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.3.0",
     "npm": "^6.14.6"
   },
   "devDependencies": {
